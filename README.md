@@ -6,14 +6,14 @@ Aplikasi mobile untuk manajemen inventaris komputer yang dibangun menggunakan Fl
 
 | Item | Deskripsi |
 |------|-----------|
-| **Nama** | [Mukhammad Alfaen Fadillah] |
-| **NIM** | [H1D023032] |
-| **Shift Asal** | [B] |
-| **Shift Baru** | [E] |
+| **Nama** | Mukhammad Alfaen Fadillah |
+| **NIM** | H1D023032 |
+| **Shift Asal** | B |
+| **Shift Baru** | E |
 
 ## 🎥 Video Demo
 
-Link video demo aplikasi: [Masukkan link video demo Anda di sini]
+Link video demo aplikasi: [https://drive.google.com/file/d/1ZNKkVCHD2HZFAA4lAqTlzEqtK7_SVfKB/view?usp=sharing]
 
 ## 📱 Fitur Aplikasi
 
